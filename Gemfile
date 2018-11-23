@@ -1,7 +1,7 @@
 # gem install bundler
 # bundle install
 source 'https://rubygems.org'
-gem 'asciidoctor', '>= 0.1.1'
+gem 'asciidoctor', '>= 1.5.8'
 gem 'versionomy', '~>0.4.3'
 gem 'sass', '~>3.2'
 gem 'rubypants', '~>0.2.0'
